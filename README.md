@@ -1,6 +1,5 @@
 ## Hi there 👋
-My name is Katya. I am a Golang backend software engineer. I see a lot of stunning possibilities in backend software engineering, like creating valuable and complicated services to improve user experience. I'm passionate about microservices architecture and what I love about  Golang are its performance, innovativeness, and simplicity.
-
+My name is Katya. I am a Golang developer. In backend development, I see a lot of opportunities to create useful and high-load services that can improve the user experience with the product. I am inspired by the flexibility of microservice architectures, and in Go by its performance, power and simplicity.
 ### Languages and Tools
 ![Golang](https://img.shields.io/badge/-Golang-120909??style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-120909??style=flat-square&logo=Python)
